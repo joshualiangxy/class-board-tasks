@@ -13,7 +13,7 @@
     "history": "^4.10.1",
     "jszip": "^3.5.0",
     "jszip-utils": "^0.1.0",
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-dates": "^21.8.0",
